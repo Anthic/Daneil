@@ -1,0 +1,46 @@
+import type { DanielsStoryData } from "@/types/daniels-story";
+
+export const danielsStoryData: DanielsStoryData = {
+  banner: {
+    title: "DANIEL'S STORY",
+    imageSrc: "/about/first page/a-banner.png",
+    imageAlt: "Daniel's Story Banner",
+  },
+  beforeImageParagraphs: [
+    "As you are able to see I have been doing healing for a long time and have all these qualifications to be a good healer.",
+    "But that is very less important than my story, what I have gone through in my life, what I have been able to overcome and heal for myself.",
+    "There is the archetypal of the wounded healer. That you must first get wounded in some ways and then learn to heal that, and then be able to heal it for others.",
+    "And I have certainly gone through that; my early years were miserable.",
+    'I was born very weak and with what they would now call "failure to thrive." I had a poor immune system and being born in Switzerland that has a nearly cold climate I got sick very often. At age two I got polio and was paralyzed on my left side for two years. As an heir to severe vascular issues in my family line, I could also not breathe for eight years.',
+    "The result of all this is, that at age four when I got over my polio, I had to learn again how to walk. I was very uncoordinated, weak and insecure on my feet.",
+    "When I played with the other kids in the yard I was the target of a lot of bullying. Every kid who thought he needed to prove to the other kids how strong he was would pick on me to do that. I was beaten up a lot, that lasted until the age of 15 when I started to go to the gym and build up some muscle.",
+    "Being beaten up continuously also instilled in me a very poor self-image. I simply could not understand why there had to be so much pain. And whenever I was in pain I would cry. Tears in my family until the age of 8. So many times I was beaten up simply to make me cry, so that all the other kids could laugh at me. I felt very humiliated. That definitely contributed to my poor self-image.",
+    "Also I had an older brother who was good at speaking and I was not. So every time I said something that was not completely grammatically correct he would tease me and make fun of me. So I learned to suppress and be still. As a teenager I was very introverted and quiet. Total poverty in school and was called an idiot many times. All these additional circumstances contributed to my poor self-image.",
+    "At one point one of my teachers humiliated me in front of the whole class. That was so traumatic that I was no longer able to coordinate my brain and my mouth. That is called spastic aphasia, when your brain and your words no longer agree.",
+    "So it became even more of an introvert and loner. I avoided contact with others as much as I could. Later in life I became self-employed because I did not want to have a boss that could potentially humiliate me.",
+    "Because of all the emotions I repressed and not knowing how to express myself, I accumulated a lot of anger and hatred. For 10 years as a young man, I tried my best to have a good image, but anytime things did not go my way I would have an anger episode. It made having intimate relationships very difficult.",
+    "Overall I felt I was at the bottom of the social ladder. Even during the play when two team captains selected their players from the group we were, I was always selected last.",
+    "Overall I was deep in shame. I felt inadequate, defective, unlovable, and was very pissed off the time to boot.",
+    "I was sick at every thing possible. Ulcer, going cry baby, vomit, sting, fever could stay a reasonable answer for 3 to 14 days. Pain was continuously very negative.",
+    "I had a hard time being successful. I tried many things during my life. I was a caterer, a computer programmer, a mortgage broker, and a realtor. I dabbled in multi-level marketing, and I try/did a little bit of healing on the side.",
+    "It is for my second wife I'm grateful to make ends meet today. I lost ten years' total of pension money and almost had lost all of us; without my second wife's paying our bills, even giving us month gifts for our birthdays and Christmas, we would have never made it.",
+    'Then in my late 30\'s I met Lazaris. He is an \'entity\' that is channeled by Jach Pursel. He taught me all about my emotions, how to constructively release my anger, how to love and accept mama, how to connect with my spirit helpers and reunite to be the real I. Not not have to be in reality myself my image. I had how to build up my self-image: "All have self-love, self-respect, self-esteem, self-confidence and self-worth."',
+    "So gradually I came out of my shell. Simple as I turn calmer and became under control. The relationship with my wife greatly improved. She did not have to suffer my anger outburst any longer. And as my self-image improved, I was able to create more magic in my life.",
+    "I went to toastmasters, and learned how to communicate better and express myself in public. I even had a series of treatments in hyperbaric room oxygen. That woke up my brain and allowed my mind, soul and my mouth to be normal and I started to give public talks.",
+    "I built myself up gradually by challenging my comfort zone, continuously expanding who I am. I lost my fear of trying new things. I understood that I did not have to be perfect and that I was allowed to make mistakes on the way to learning something new. I did not take it personally every time I failed. I began to feel free.",
+    "I became able to handle criticism and saw it as constructive feedback without being dive into that any longer. It became easy to appease even.",
+    'I was also able to drop my judgments towards myself and others. My new motto became "live and let live." That created even more freedom for me.',
+    'Now I am in bliss 24/7. If you are interested, please go to my "Bliss List" in another part of this site. I list many things that all contribute to my continued bliss. Probably the most important is that I know all the way deep in my core that I\'m a DIVINE being and super-divine all the time. The saying "Ask and you shall receive" really works for me now all the time.',
+    "Now that I went through all of this, I know how to get out of it, and so, if you desire my help, you will not have to struggle for thirty years.",
+    "So now that you read all of this I have a gift for you. In my healing practice I became a 'gazer,' being able to send love energy to clients with my eyes. So below is a picture of me that was taken during a moment where I did just that.",
+    "If you have something minor, if you feel you need a boost of energy, just look at my eyes in this picture, and let the love enter you and make you feel better.",
+  ],
+  gazingImage: {
+    imageSrc: "/about/2nd page/daniel-3.jpg",
+    imageAlt: "Reverend Daniel Metraux - Gazing Portrait",
+  },
+  afterImageParagraphs: [
+    "In parting I wish to tell you that if I was able to come out of the dark all I was, then anyone of you can do this. I did not have to do this all alone. I had a lot of help, and if you are ready to do the same and need some help, then I am here for you.",
+    "I wish you all the best.",
+  ],
+};

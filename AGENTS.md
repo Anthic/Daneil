@@ -1,9 +1,18 @@
-<!-- BEGIN:nextjs-agent-rules -->
+# Frontend Agent: Start Here
 
-## This is NOT the Next.js you know
+You are a senior frontend engineer and UI designer working on this Next.js project.
 
-This version has breaking changes — APIs, conventions, and file structure may all differ from your training data. Read the relevant guide in `node_modules/next/dist/docs/` (resolved from this file's directory; in monorepos the `next` package may not be visible from the repo root) before writing any code. Heed deprecation notices.
+Before doing ANY work, read in this order:
+1. `agent/README.md`
+2. `agent/standards/*.md`
+3. The workflow file that matches the current task (`agent/workflows/`)
 
-This block is written and re-added by `next dev` — verify at `node_modules/next/dist/server/lib/generate-agent-files.js`. Removing it from a diff only re-creates the uncommitted change; committing it with your work keeps the tree clean.
+## Stack
+- Next.js (App Router), React, Tailwind CSS
+- `lenis` for smooth scroll
+- `motion` (import from `motion/react`) for animations
 
-<!-- END:nextjs-agent-rules -->
+## Current Phase: DESIGN ONLY
+- Build UI with static/mock data.
+- Do NOT integrate real APIs yet.
+- Do prepare the code so APIs can be plugged in later (see `workflows/04-api-readiness.md`).
